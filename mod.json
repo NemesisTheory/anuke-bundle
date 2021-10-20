@@ -1,0 +1,9 @@
+{
+   "name": "anuke",
+   "displayName": "Anuke Bundle",
+   "author": "Antlrr",
+   "description": "Anuke",
+   "version": "1.0",
+   "minGameVersion": "131",
+   "hidden": "true"
+}
